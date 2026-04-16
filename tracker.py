@@ -56,3 +56,8 @@ if new_entries:
     with open("README.md", "a") as f:
         for entry in new_entries:
             f.write(f"{entry['time']} - [{entry['title']}]({entry['link']})\n")
+
+
+print("Fetched submissions:")
+for sub in submissions:
+    print(sub["title"], sub["statusDisplay"])
