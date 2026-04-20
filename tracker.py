@@ -2,7 +2,12 @@ import requests
 import json
 from datetime import datetime
 
-USERNAME = "samridhi_kulshrestha"
+import os
+
+USERNAME = os.getenv("LEETCODE_USERNAME")
+
+if not USERNAME:
+    raise ValueError("❌ Please set LEETCODE_USERNAME")
 
 url = "https://leetcode.com/graphql"
 
