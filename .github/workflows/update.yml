@@ -2,13 +2,12 @@ name: LeetCode Tracker
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # runs daily (11:30 PM IST)
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
-  
-#tracker refresh 
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -30,9 +29,9 @@ jobs:
         env:
           LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
 
-      # ✅ ensures commit always happens (even if no new submissions)
       - name: Update last run timestamp
-        run: echo "Last run: $(date)" > last_run.txt
+        run: |
+          echo "Last run: $(date)" > last_run.txt
 
       - name: Commit and push changes
         run: |
