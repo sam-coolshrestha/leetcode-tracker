@@ -2,7 +2,7 @@ name: LeetCode Tracker
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # daily
+    - cron: "0 18 * * *"   # runs daily (11:30 PM IST)
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -24,15 +24,16 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run tracker
+      - name: Run tracker script
         run: python tracker.py
+        env:
+          LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
 
-      # ✅ Add this step (REAL change every run)
+      # ✅ ensures commit always happens (even if no new submissions)
       - name: Update last run timestamp
-        run: |
-          echo "Last run: $(date)" > last_run.txt
+        run: echo "Last run: $(date)" > last_run.txt
 
-      - name: Commit & Push changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
