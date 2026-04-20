@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime
 
-USERNAME = "sam_coolshrestha"
+USERNAME = "samridhi_kulshrestha"
 
 url = "https://leetcode.com/graphql"
 
