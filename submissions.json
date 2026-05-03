@@ -48,5 +48,30 @@
     "title": "Fibonacci Number",
     "time": "2026-04-21 17:14",
     "link": "https://leetcode.com/problems/fibonacci-number"
+  },
+  {
+    "title": "Longest Increasing Subsequence",
+    "time": "2026-05-03 14:19",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+  },
+  {
+    "title": "Longest Increasing Subsequence",
+    "time": "2026-05-03 14:13",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+  },
+  {
+    "title": "Longest Common Subsequence",
+    "time": "2026-05-03 14:09",
+    "link": "https://leetcode.com/problems/longest-common-subsequence"
+  },
+  {
+    "title": "Rotate String",
+    "time": "2026-05-03 04:58",
+    "link": "https://leetcode.com/problems/rotate-string"
+  },
+  {
+    "title": "Number of Provinces",
+    "time": "2026-05-03 03:54",
+    "link": "https://leetcode.com/problems/number-of-provinces"
   }
 ]
