@@ -13,7 +13,7 @@ MY DAILY LEETCODE PRACTICE:
 2026-03-28 14:56 - [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values)
 
 
-# 🚀 LeetCode Tracker (GitHub Actions)
+#  LeetCode Tracker (GitHub Actions)
 
 Automatically track your **LeetCode accepted submissions** and update your GitHub repository using **GitHub Actions**.
 
@@ -22,18 +22,18 @@ This project fetches your latest LeetCode submissions, stores them, and appends 
 
 ---
 
-## ✨ Features
+##  Features
 
-* 📊 Fetches your recent **accepted submissions**
-* 🔄 Runs automatically using **GitHub Actions**
-* 🟢 Keeps your GitHub contribution graph active
-* 📁 Stores history in `submissions.json`
-* 📝 Updates `README.md` with solved problems
-* ⚙️ Easily customizable for any user
+*  Fetches your recent **accepted submissions**
+*  Runs automatically using **GitHub Actions**
+*  Keeps your GitHub contribution graph active
+*  Stores history in `submissions.json`
+*  Updates `README.md` with solved problems
+*  Easily customizable for any user
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. GitHub Actions runs on a schedule (daily)
 2. It calls LeetCode’s GraphQL API
@@ -44,7 +44,7 @@ This project fetches your latest LeetCode submissions, stores them, and appends 
 
 ---
 
-## 🛠️ Setup Guide (For New Users)
+##  Setup Guide (For New Users)
 
 Follow these steps to use this project for your own LeetCode profile:
 
@@ -60,7 +60,7 @@ Click the **Fork** button (top-right) to create your own copy.
 
 Go to:
 
-👉 `Your Repo → Settings → Secrets and variables → Actions`
+ `Your Repo → Settings → Secrets and variables → Actions`
 
 Click **New repository secret** and add:
 
@@ -78,7 +78,7 @@ Value: your_leetcode_username
 
 If workflows are disabled:
 
-👉 Go to **Actions tab → Enable workflows**
+ Go to **Actions tab → Enable workflows**
 
 ---
 
@@ -96,7 +96,7 @@ Option B (automatic):
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 leetcode-tracker/
@@ -112,13 +112,13 @@ leetcode-tracker/
 
 ---
 
-## ⚙️ Customization Options
+##  Customization Options
 
 You can modify this project easily:
 
 ---
 
-### 🕒 Change Run Time
+###  Change Run Time
 
 Edit this in `update.yml`:
 
@@ -148,7 +148,7 @@ You can format it as:
 
 ---
 
-### 📁 Change File Names (Advanced)
+### Change File Names (Advanced)
 
 You can modify:
 
@@ -197,49 +197,31 @@ Update last run timestamp
 
 ---
 
-## 🌟 Future Improvements (Optional Ideas)
+##  Future Improvements (Optional Ideas)
 
-* 📊 Difficulty-wise stats (Easy / Medium / Hard)
-* 🔥 Daily streak counter
-* 📈 Graphical dashboard
-* 💅 Styled README UI
+*  Difficulty-wise stats (Easy / Medium / Hard)
+*  Daily streak counter
+*  Graphical dashboard
+*  Styled README UI
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork, improve, and create pull requests!
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this useful:
-👉 Give it a ⭐ on GitHub
+ Give it a ⭐ on GitHub
 
 ---
 
-## 📌 Summary
+##  Summary
 
 ✔ Fully automated
 ✔ Reusable for any user
 ✔ Minimal setup (just 1 secret)
 ✔ Clean and extensible
-
----
-
-Happy Coding 🚀
-2026-04-21 17:14 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
-2026-05-03 14:19 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
-2026-05-03 14:13 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
-2026-05-03 14:09 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
-2026-05-03 04:58 - [Rotate String](https://leetcode.com/problems/rotate-string)
-2026-05-03 03:54 - [Number of Provinces](https://leetcode.com/problems/number-of-provinces)
-2026-05-04 18:51 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
-2026-05-04 04:02 - [Rotate Image](https://leetcode.com/problems/rotate-image)
-2026-05-04 03:57 - [Rotate Image](https://leetcode.com/problems/rotate-image)
-2026-05-05 13:03 - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
-2026-05-05 08:09 - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
-2026-05-05 07:42 - [Unique Paths](https://leetcode.com/problems/unique-paths)
-2026-05-05 06:28 - [House Robber II](https://leetcode.com/problems/house-robber-ii)
-2026-05-09 06:39 - [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset)
