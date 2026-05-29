@@ -225,3 +225,4 @@ If you found this useful:
 ✔ Reusable for any user
 ✔ Minimal setup (just 1 secret)
 ✔ Clean and extensible
+2026-05-29 09:22 - [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum)

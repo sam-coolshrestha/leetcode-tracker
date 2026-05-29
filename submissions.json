@@ -113,5 +113,10 @@
     "title": "Largest Divisible Subset",
     "time": "2026-05-09 06:39",
     "link": "https://leetcode.com/problems/largest-divisible-subset"
+  },
+  {
+    "title": "Minimum Element After Replacement With Digit Sum",
+    "time": "2026-05-29 09:22",
+    "link": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum"
   }
 ]
