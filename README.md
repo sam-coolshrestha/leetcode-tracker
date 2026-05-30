@@ -226,3 +226,5 @@ If you found this useful:
 ✔ Minimal setup (just 1 secret)
 ✔ Clean and extensible
 2026-05-29 09:22 - [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum)
+2026-05-30 17:26 - [Reverse Bits](https://leetcode.com/problems/reverse-bits)
+2026-05-30 17:04 - [Block Placement Queries](https://leetcode.com/problems/block-placement-queries)

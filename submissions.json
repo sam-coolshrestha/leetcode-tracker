@@ -118,5 +118,15 @@
     "title": "Minimum Element After Replacement With Digit Sum",
     "time": "2026-05-29 09:22",
     "link": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum"
+  },
+  {
+    "title": "Reverse Bits",
+    "time": "2026-05-30 17:26",
+    "link": "https://leetcode.com/problems/reverse-bits"
+  },
+  {
+    "title": "Block Placement Queries",
+    "time": "2026-05-30 17:04",
+    "link": "https://leetcode.com/problems/block-placement-queries"
   }
 ]
