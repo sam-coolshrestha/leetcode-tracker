@@ -228,3 +228,6 @@ If you found this useful:
 2026-05-29 09:22 - [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum)
 2026-05-30 17:26 - [Reverse Bits](https://leetcode.com/problems/reverse-bits)
 2026-05-30 17:04 - [Block Placement Queries](https://leetcode.com/problems/block-placement-queries)
+2026-06-01 16:14 - [Rotate List](https://leetcode.com/problems/rotate-list)
+2026-06-01 16:12 - [Rotate List](https://leetcode.com/problems/rotate-list)
+2026-06-01 15:32 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)
