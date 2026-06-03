@@ -233,3 +233,5 @@ If you found this useful:
 2026-06-01 16:12 - [Rotate List](https://leetcode.com/problems/rotate-list)
 2026-06-01 15:32 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)
 2026-06-02 17:35 - [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i)
+2026-06-03 17:31 - [Two Sum](https://leetcode.com/problems/two-sum)
+2026-06-03 17:08 - [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i)
