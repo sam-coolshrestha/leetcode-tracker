@@ -168,5 +168,15 @@
     "title": "Unique Paths II",
     "time": "2026-06-04 08:49",
     "link": "https://leetcode.com/problems/unique-paths-ii"
+  },
+  {
+    "title": "Separate the Digits in an Array",
+    "time": "2026-06-08 16:38",
+    "link": "https://leetcode.com/problems/separate-the-digits-in-an-array"
+  },
+  {
+    "title": "Partition Array According to Given Pivot",
+    "time": "2026-06-08 16:19",
+    "link": "https://leetcode.com/problems/partition-array-according-to-given-pivot"
   }
 ]
