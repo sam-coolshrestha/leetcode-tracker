@@ -240,3 +240,4 @@ If you found this useful:
 2026-06-04 08:49 - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
 2026-06-08 16:38 - [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array)
 2026-06-08 16:19 - [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot)
+2026-06-10 10:16 - [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i)
