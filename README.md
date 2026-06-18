@@ -251,3 +251,4 @@ If you found this useful:
 2026-06-17 06:05 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 2026-06-17 05:32 - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 2026-06-17 05:12 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+2026-06-18 09:05 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
