@@ -253,3 +253,7 @@ If you found this useful:
 2026-06-18 09:05 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
 2026-06-19 08:14 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
 2026-06-19 08:03 - [Course Schedule](https://leetcode.com/problems/course-schedule)
+2026-06-22 08:34 - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)
+2026-06-22 05:51 - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
+2026-06-22 05:51 - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
+2026-06-22 05:44 - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
