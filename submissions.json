@@ -273,5 +273,15 @@
     "title": "Implement Trie (Prefix Tree)",
     "time": "2026-06-22 05:44",
     "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+  },
+  {
+    "title": "Find the Highest Altitude",
+    "time": "2026-06-24 09:53",
+    "link": "https://leetcode.com/problems/find-the-highest-altitude"
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "time": "2026-06-24 07:41",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
   }
 ]
