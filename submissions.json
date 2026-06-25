@@ -283,5 +283,20 @@
     "title": "Longest Substring Without Repeating Characters",
     "time": "2026-06-24 07:41",
     "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "title": "Valid Anagram",
+    "time": "2026-06-25 10:38",
+    "link": "https://leetcode.com/problems/valid-anagram"
+  },
+  {
+    "title": "Longest Common Prefix",
+    "time": "2026-06-25 10:16",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "title": "Largest Odd Number in String",
+    "time": "2026-06-25 09:58",
+    "link": "https://leetcode.com/problems/largest-odd-number-in-string"
   }
 ]
