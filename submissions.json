@@ -298,5 +298,35 @@
     "title": "Largest Odd Number in String",
     "time": "2026-06-25 09:58",
     "link": "https://leetcode.com/problems/largest-odd-number-in-string"
+  },
+  {
+    "title": "Delete the Middle Node of a Linked List",
+    "time": "2026-06-26 10:18",
+    "link": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list"
+  },
+  {
+    "title": "Linked List Cycle II",
+    "time": "2026-06-26 10:05",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii"
+  },
+  {
+    "title": "Middle of the Linked List",
+    "time": "2026-06-26 09:58",
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list"
+  },
+  {
+    "title": "Linked List Cycle",
+    "time": "2026-06-26 09:53",
+    "link": "https://leetcode.com/problems/linked-list-cycle"
+  },
+  {
+    "title": "Reverse Linked List",
+    "time": "2026-06-26 09:48",
+    "link": "https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "title": "Delete Node in a Linked List",
+    "time": "2026-06-26 07:10",
+    "link": "https://leetcode.com/problems/delete-node-in-a-linked-list"
   }
 ]
