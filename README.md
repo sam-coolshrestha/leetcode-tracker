@@ -268,3 +268,6 @@ If you found this useful:
 2026-06-26 09:53 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 2026-06-26 09:48 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 2026-06-26 07:10 - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
+2026-06-27 18:22 - [Find the Difference](https://leetcode.com/problems/find-the-difference)
+2026-06-27 18:05 - [Ransom Note](https://leetcode.com/problems/ransom-note)
+2026-06-27 18:05 - [Ransom Note](https://leetcode.com/problems/ransom-note)
