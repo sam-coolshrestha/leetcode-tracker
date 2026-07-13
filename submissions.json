@@ -443,5 +443,30 @@
     "title": "Word Break",
     "time": "2026-07-06 09:25",
     "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "title": "Majority Element",
+    "time": "2026-07-13 10:51",
+    "link": "https://leetcode.com/problems/majority-element"
+  },
+  {
+    "title": "Find the Duplicate Number",
+    "time": "2026-07-13 08:28",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number"
+  },
+  {
+    "title": "Merge Intervals",
+    "time": "2026-07-13 08:10",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "title": "Merge Intervals",
+    "time": "2026-07-13 08:10",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "title": "Merge Intervals",
+    "time": "2026-07-13 08:09",
+    "link": "https://leetcode.com/problems/merge-intervals"
   }
 ]

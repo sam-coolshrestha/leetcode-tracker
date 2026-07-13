@@ -291,3 +291,8 @@ If you found this useful:
 2026-07-06 11:58 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)
 2026-07-06 10:25 - [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board)
 2026-07-06 09:25 - [Word Break](https://leetcode.com/problems/word-break)
+2026-07-13 10:51 - [Majority Element](https://leetcode.com/problems/majority-element)
+2026-07-13 08:28 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
+2026-07-13 08:10 - [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+2026-07-13 08:10 - [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+2026-07-13 08:09 - [Merge Intervals](https://leetcode.com/problems/merge-intervals)
