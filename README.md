@@ -297,3 +297,6 @@ If you found this useful:
 2026-07-13 08:10 - [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 2026-07-13 08:09 - [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 2026-07-15 06:13 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+2026-08-09 18:18 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)
+2026-08-09 18:07 - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)
+2026-08-09 17:43 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
