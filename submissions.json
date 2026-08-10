@@ -488,5 +488,10 @@
     "title": "Merge Strings Alternately",
     "time": "2026-08-09 17:43",
     "link": "https://leetcode.com/problems/merge-strings-alternately"
+  },
+  {
+    "title": "Number of Recent Calls",
+    "time": "2026-08-10 11:13",
+    "link": "https://leetcode.com/problems/number-of-recent-calls"
   }
 ]
