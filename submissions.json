@@ -503,5 +503,10 @@
     "title": "Clone Graph",
     "time": "2026-08-13 08:56",
     "link": "https://leetcode.com/problems/clone-graph"
+  },
+  {
+    "title": "Reverse Degree of a String",
+    "time": "2026-09-20 18:31",
+    "link": "https://leetcode.com/problems/reverse-degree-of-a-string"
   }
 ]
