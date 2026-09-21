@@ -304,3 +304,4 @@ If you found this useful:
 2026-08-13 11:39 - [Clone Graph](https://leetcode.com/problems/clone-graph)
 2026-08-13 08:56 - [Clone Graph](https://leetcode.com/problems/clone-graph)
 2026-09-20 18:31 - [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string)
+2026-09-21 13:20 - [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i)
